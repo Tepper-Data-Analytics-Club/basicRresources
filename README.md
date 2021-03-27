@@ -4,7 +4,7 @@ Welcome to the Tepper Data Analytics Club's Basic R Resources guide. As of right
 
 
 ## R Tutorials
-* We really like the `swirl` package, which allows you to work through basic R syntax and programming right from RStudio. You learn R, in R! 
+* We really like the `swirl` [package](https://swirlstats.com/students.html), which allows you to work through basic R syntax and programming right from RStudio. You learn R, in R! 
 * [This course](https://www.coursera.org/learn/r-programming) on R Programming includes a bunch of lectures by Johns Hopkins' Roger Peng. It makes heavy use of `swirl`, but the lectures help explain some of the background and how to use the language.
 * Datacamp also has a free [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) class that can get you up to speed fairly quickly.
 
