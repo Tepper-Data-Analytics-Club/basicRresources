@@ -13,3 +13,6 @@ RStudio has a number of excellent resources for the language:
 * This [R Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf) walks you through a lot of basic R syntax and some key functions. This is especially helpful if you're familiar with another language like Python or C++ - R is a little different.
 * RStudio has a [github repo](https://github.com/rstudio/cheatsheets) full of cheatsheets for a number of commonly used R packages. If you're struggling with a package, try Googling "[package] cheatsheet" - 9 times out of 10, there's one for you.
 * The [community forums](https://community.rstudio.com/) are not quite as active as StackExchange, but are a good source of information and can help you with specific problems.
+
+## Student-created resources
+* One of our board members created [this repo](https://github.com/Tepper-Data-Analytics-Club/Statistical-Decision-Making) that allows you to use the `tprstats` package with Jupyter notebooks, which may be very helpful for anyone already familiar with that framework from previous class or work experience in Python. 
